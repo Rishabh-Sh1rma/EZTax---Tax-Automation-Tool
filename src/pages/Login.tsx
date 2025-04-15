@@ -43,7 +43,7 @@ export default function Login() {
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <div className="bg-emerald-500 p-6 flex flex-col items-center">
             <Calculator className="w-12 h-12 text-white mb-2" />
-            <h1 className="text-2xl font-bold text-white">TAX BUDDY!</h1>
+            <h1 className="text-2xl font-bold text-white">EZTax!</h1>
             <p className="text-emerald-100">Manage your expense in no time!</p>
           </div>
 
