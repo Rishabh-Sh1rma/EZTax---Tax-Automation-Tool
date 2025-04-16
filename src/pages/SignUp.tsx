@@ -48,7 +48,7 @@ export default function SignUp() {
 
       if (session?.user) {
         // Insert profile into users table if logged in
-        const { error: insertError } = await supabase.from('users').insert([
+        const { error: insertError } = await supabase.from('users').upsert([
           {
             id: session.user.id,
             email,
