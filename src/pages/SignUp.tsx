@@ -51,6 +51,7 @@ export default function SignUp() {
         const { error: insertError } = await supabase.from('users').insert([
           {
             id: session.user.id,
+            email,
             first_name: firstName,
             last_name: lastName,
             mobile: mobile,
