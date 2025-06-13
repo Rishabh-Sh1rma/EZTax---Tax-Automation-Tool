@@ -5,7 +5,7 @@
 
 EZTax is a **personalized tax automation tool** designed for Indian taxpayers. It not only computes taxes but **educates users**, compares regimes, and empowers them to make smarter financial decisions — all in real time.
 
-![Banner](./assets/hero-image.png)
+![Banner]([**./assets/hero-image.png**](https://i.ibb.co/QjDMcFmN/Copy-of-Untitled-10.png))
 
 ---
 
