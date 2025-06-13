@@ -5,7 +5,7 @@
 
 EZTax is a **personalized tax automation tool** designed for Indian taxpayers. It not only computes taxes but **educates users**, compares regimes, and empowers them to make smarter financial decisions — all in real time.
 
-![Banner](![image](https://github.com/user-attachments/assets/5e06937f-2531-4590-8d32-78bd95b8aa3d))
+![Banner](https://github.com/user-attachments/assets/5e06937f-2531-4590-8d32-78bd95b8aa3d)
 ![image](https://github.com/user-attachments/assets/e29d476f-1d4a-4b74-aa98-1f69cfb643f9)
 
 
@@ -103,11 +103,10 @@ Frontend (React)
 
 ## 📸 Screenshots
 
-| Setup Profile | Tax Summary |
-|---------------|-------------|
-| ![setup](![image](https://github.com/user-attachments/assets/809579f9-5e8f-4964-b264-8e913492a84e)
-) | ![summary](![image](https://github.com/user-attachments/assets/a611c831-4da9-44c0-a8db-0f1eac8f0b6d)
-) | ![image](https://github.com/user-attachments/assets/1e6ae99f-2a10-42c4-9457-9f1609775538)
+| Setup Profile | Tax Summary | Visual Overview |
+|---------------|-------------|-----------------|
+| ![Setup](https://github.com/user-attachments/assets/809579f9-5e8f-4964-b264-8e913492a84e) | ![Summary](https://github.com/user-attachments/assets/a611c831-4da9-44c0-a8db-0f1eac8f0b6d) | ![Overview](https://github.com/user-attachments/assets/1e6ae99f-2a10-42c4-9457-9f1609775538) |
+
 
 
 ---
