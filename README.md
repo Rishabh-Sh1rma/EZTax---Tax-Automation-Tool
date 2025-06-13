@@ -5,7 +5,9 @@
 
 EZTax is a **personalized tax automation tool** designed for Indian taxpayers. It not only computes taxes but **educates users**, compares regimes, and empowers them to make smarter financial decisions — all in real time.
 
-![Banner]([**./assets/hero-image.png**](https://i.ibb.co/QjDMcFmN/Copy-of-Untitled-10.png))
+![Banner](![image](https://github.com/user-attachments/assets/5e06937f-2531-4590-8d32-78bd95b8aa3d))
+![image](https://github.com/user-attachments/assets/e29d476f-1d4a-4b74-aa98-1f69cfb643f9)
+
 
 ---
 
@@ -18,6 +20,8 @@ EZTax is a **personalized tax automation tool** designed for Indian taxpayers. I
 - 🎓 **Step-by-step explanations** of tax impact
 - 💬 **Real-time calculation** & form validation
 - ✨ **User-friendly UI** built with React.js
+- ![image](https://github.com/user-attachments/assets/bf7ba712-f1ae-42e4-89e6-04d0f48f452c)
+
 
 ---
 
@@ -46,6 +50,8 @@ A modular, type-safe tax calculator supporting:
 - 👵 Senior citizen exemptions
 - 🔁 Old vs New regime adaptability
 - 🎯 Custom deduction mapping (80C, 80D, HRA, etc.)
+- ![image](https://github.com/user-attachments/assets/f3cccecf-26bb-4736-aa8a-702895382ffd)
+
 
 ### 🧾 Dynamic Forms
 Forms adjust dynamically based on:
@@ -53,6 +59,10 @@ Forms adjust dynamically based on:
 - Regime choice
 - Deduction eligibility  
 Includes real-time validation, conditional rendering, and multi-step navigation.
+![image](https://github.com/user-attachments/assets/4bec4077-db76-4a57-b074-d68a23e33ee7)
+![image](https://github.com/user-attachments/assets/7e7d4a70-90f1-499f-91ac-665d20ef7eb9)
+
+
 
 ### 📊 Summary & Visualization
 Real-time visualization of:
@@ -60,6 +70,8 @@ Real-time visualization of:
 - Deductions
 - Slab-wise calculations  
 Includes downloadable PDF summaries with complete breakdown.
+![image](https://github.com/user-attachments/assets/1fca5f3a-609e-4003-8618-5055ce6fa4b3)
+
 
 ---
 
@@ -93,7 +105,10 @@ Frontend (React)
 
 | Setup Profile | Tax Summary |
 |---------------|-------------|
-| ![setup](./assets/setup.png) | ![summary](./assets/summary.png) |
+| ![setup](![image](https://github.com/user-attachments/assets/809579f9-5e8f-4964-b264-8e913492a84e)
+) | ![summary](![image](https://github.com/user-attachments/assets/a611c831-4da9-44c0-a8db-0f1eac8f0b6d)
+) | ![image](https://github.com/user-attachments/assets/1e6ae99f-2a10-42c4-9457-9f1609775538)
+
 
 ---
 
